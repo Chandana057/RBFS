@@ -1,0 +1,10 @@
+.codex/
+package-lock.json
+
+**/node_modules/
+**/dist/
+**/target/
+**/.idea/
+**/.env
+
+*.log
